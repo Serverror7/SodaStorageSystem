@@ -1,0 +1,1 @@
+The simple soda storage system's demo video can be found [here](https://youtube.com/shorts/5umbk6tQL0I), and its specifications and design, alongside all the other information you want to know about it can be found on the final project .pdf.
